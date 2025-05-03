@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "NoctuaPulse",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
+    "primary": "#02093D",
+    "light": "#07FD93",
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
